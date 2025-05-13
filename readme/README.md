@@ -8,8 +8,6 @@
 
 ### Installation
 
-### Running the Development Server
-
 ## License
 
 ## Code of Conduct
