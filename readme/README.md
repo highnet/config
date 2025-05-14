@@ -14,6 +14,8 @@
 
 ## Contributing
 
+## Security
+
 ## Support
 
 ## Contact
