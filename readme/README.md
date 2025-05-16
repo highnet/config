@@ -4,9 +4,9 @@
 
 ## Getting Started
 
-### Prerequisites
+## Prerequisites
 
-### Installation
+## Installation
 
 ## License
 
