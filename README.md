@@ -5,15 +5,17 @@ This repository stores various configuration files for different tools and proje
 ## Contents
 
 This repository includes configuration for:
+
 - Git (`.gitignore`)
 - Prettier (`.prettierrc`)
 - TypeScript (`tsconfig.json`)
 - VS Code (`settings.json`)
-- And more as added.
 
 ## Usage
 
 Clone or download the specific configuration files you need for your projects.
+
+For quickly setting up a new project with common boilerplate files like `README.md`, `LICENCE.md`, `CODE_OF_CONDUCT.md`, `CONTRIBUTING.md`, and `SECURITY.MD`, you can use the `create-project-files.bat` script from the [windows_cli repository](https://github.com/highnet/windows_cli/blob/main/scripts/create-project-files.bat). Download and run this script in your new project's root directory.
 
 ## License
 
@@ -25,7 +27,7 @@ Please note that this project is released with a Contributor Code of Conduct. By
 
 ## Contributing
 
-Contributions are welcome! If you have a common configuration that could be useful, please feel free to open a pull request.
+Contributions are welcome! If you have a common configuration that could be useful, please feel free to open a pull request. See [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Support
 
