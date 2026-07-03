@@ -11,7 +11,7 @@
 	"git.autofetch": true,
 	"editor.minimap.enabled": false,
 	"prettier.bracketSameLine": true,
-	"prettier.useTabs": true,
+	"prettier.useTabs": false,
 	"[typescriptreact]": {
 		"editor.defaultFormatter": "esbenp.prettier-vscode",
 	},
@@ -19,7 +19,7 @@
 		"editor.defaultFormatter": "esbenp.prettier-vscode",
 	},
 	"diffEditor.ignoreTrimWhitespace": false,
-	"editor.tabSize": 4,
+	"editor.tabSize": 2,
 	"js/ts.updateImportsOnFileMove.enabled": "always",
 	"editor.inlineSuggest.enabled": true,
 	"errorLens.excludeBySource": ["css(emptyRules)"],
