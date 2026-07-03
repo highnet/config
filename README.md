@@ -10,6 +10,9 @@ This repository includes configuration for:
 - Prettier (`.prettierrc`)
 - TypeScript (`tsconfig.json`)
 - VS Code (`settings.json`)
+- yabai (`.yabairc`) - automatic BSP tiling window manager for macOS
+- skhd (`.skhdrc`) - hotkey daemon that provides yabai's keybindings
+- AeroSpace (`.aerospace.toml`) - alternative tiling window manager (manual layouts)
 
 ## Usage
 

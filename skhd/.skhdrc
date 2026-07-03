@@ -1,0 +1,25 @@
+# skhd hotkeys for yabai. yabai has no built-in keybindings; skhd provides them.
+
+# Focus windows (same keys you had under AeroSpace)
+alt - h : yabai -m window --focus west
+alt - j : yabai -m window --focus south
+alt - k : yabai -m window --focus north
+alt - l : yabai -m window --focus east
+
+# Move (swap) the focused window
+shift + alt - h : yabai -m window --swap west
+shift + alt - j : yabai -m window --swap south
+shift + alt - k : yabai -m window --swap north
+shift + alt - l : yabai -m window --swap east
+
+# Toggle the split orientation of the focused window (row vs column at that spot)
+alt - e : yabai -m window --toggle split
+
+# Rebalance all splits to equal sizes
+alt - r : yabai -m space --balance
+
+# Toggle the focused window between tiled and floating (centered)
+shift + alt - space : yabai -m window --toggle float --grid 6:6:1:1:4:4
+
+# Open Terminal
+alt - return : open -a Terminal
