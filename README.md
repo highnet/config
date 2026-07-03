@@ -7,11 +7,14 @@ This repository stores various configuration files for different tools and proje
 This repository includes configuration for:
 
 - Git (`.gitignore`)
-- Prettier (`.prettierrc`)
+- Prettier (`.prettierrc`, `.prettierignore`)
 - ESLint (`eslint.config.mjs`)
 - EditorConfig (`.editorconfig`)
 - TypeScript (`tsconfig.json`)
+- Node version (`.nvmrc`)
 - VS Code (`settings.json`)
+- Agent coding conventions (`AGENTS.md`)
+- Claude Code (`CLAUDE.md`, `settings.json`)
 - yabai (`.yabairc`) - automatic BSP tiling window manager for macOS
 - skhd (`.skhdrc`) - hotkey daemon that provides yabai's keybindings
 
